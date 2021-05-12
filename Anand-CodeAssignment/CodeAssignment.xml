@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CodeAssignment</name>
+    </assembly>
+    <members>
+        <member name="M:CodeAssignment.Controllers.TestController.CalculateIntegarArray(System.Int32[])">
+            <summary>
+            Method to total all the values that are even numbers from given request.
+            </summary>
+            <param name="intergarVal">Add multiple values in array</param>
+            <returns>Returns total of even numbers from given array</returns>
+        </member>
+        <member name="M:CodeAssignment.Controllers.TestController.Calculate1To100">
+            <summary>
+            Method to prints numbers from 1 to 100 for multiples of 3 and 5 number will return  “valar” and “morghulis” and for both will return “valar morghulis”
+            </summary>
+        </member>
+        <member name="M:CodeAssignment.Controllers.TestController.SwapTwoNumbers(System.Int64,System.Int64)">
+            <summary>
+            Method to swap two numbers without temporary number
+            </summary>
+            <param name="number1">First number for swap</param>
+            <param name="number2">Second number for swap</param>
+            <returns>Returns swaped numbers of given number</returns>
+        </member>
+        <member name="M:CodeAssignment.Controllers.TestController.FibonacciNumber(System.Int64)">
+            <summary>
+            Method to return fibonacci series of given nuber
+            </summary>
+            <param name="number">number for fibonacciseries</param>
+            <returns>Returns Fibonacci Series number</returns>
+        </member>
+        <member name="M:CodeAssignment.Controllers.TestController.CircumferenceOfCircle">
+            <summary>
+            Method to calculate CircumferenceOfCircle
+            </summary>
+            <returns>CircumferenceOfCircle</returns>
+        </member>
+        <member name="M:CodeAssignment.Controllers.TestController.Calculatepowerofnumber(System.Int64,System.Int64)">
+            <summary>
+            Method to calculate Power Of Number
+            </summary>
+            <param name="number">number for calculate power</param>
+            <param name="power">power of number</param>
+            <returns>Returns power of given number</returns>
+        </member>
+        <member name="M:CodeAssignment.Controllers.TestController.EnumValues">
+            <summary>
+            Method to return Enum values
+            </summary>
+            <returns>Returns Enum values </returns>
+        </member>
+        <member name="M:CodeAssignment.Controllers.TestController.AreaOfRectangleAndSquare(System.Single,System.Single,System.Single)">
+            <summary>
+            Method to caculate AreaOfRectangle And Square with using over loaded function
+            </summary>
+            <param name="side">side for calculate area of square</param>
+            <param name="length">length for calculate area of rectangel</param>
+            <param name="breadth">breadth for calculate area of rectangel</param>
+            <returns>Return Area of Square </returns> 
+            <returns>Return Area of Rectangle </returns> 
+        </member>
+        <member name="M:CodeAssignment.Controllers.TestController.batsman">
+            <summary>
+            Method to get best batting momentum
+            </summary>
+            <returns>Returns swaped numbers of given number</returns>
+        </member>
+        <member name="M:CodeAssignment.Controllers.TestController.Players">
+            <summary>
+            Method to get best batting momentum
+            </summary>
+            <returns>Returns playes IsRetired flag updated data </returns> 
+        </member>
+        <member name="M:CodeAssignment.Controllers.TestController.JsonObject">
+            <summary>
+            Method to get return string json to object
+            </summary>
+            <returns>Returns json object </returns>
+        </member>
+        <member name="M:CodeAssignment.Controllers.TestController.WicketTakingPlayer">
+            <summary>
+            Method to get return WicketTakingPlayer details
+            </summary>
+            <returns>Returns WicketTakingPlayer details </returns>
+        </member>
+        <member name="T:CodeAssignment.Controllers.TestController.Circle">
+            <summary>
+             Circle class
+            </summary>
+        </member>
+        <member name="M:CodeAssignment.Controllers.TestController.power(System.Int64,System.Int64)">
+            <summary>
+            function to calculate power of number
+            </summary>
+            <param name="n"></param>
+            <param name="p"></param>
+            <returns></returns>
+        </member>
+        <member name="T:CodeAssignment.Controllers.TestController.colors">
+            <summary>
+            Enum 
+            </summary>
+        </member>
+        <member name="M:CodeAssignment.Controllers.TestController.Area(System.Single)">
+            <summary>
+            function to calculate area
+            </summary>
+            <param name="side"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CodeAssignment.Controllers.TestController.Area(System.Single,System.Single)">
+            <summary>
+            function to calculate area
+            </summary>
+            <param name="length"></param>
+            <param name="breadth"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
